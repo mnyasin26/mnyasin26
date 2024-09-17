@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Muhamad Nur Yasin Amadudin</h1>
 <h3 align="center">Currently Assigned as Embedded & IoT Developer</h3>
 
@@ -45,11 +44,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<p align="left">
-<a href="https://github.com/mnyasin26">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mnyasin26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mnyasin26&layout=compact&theme=algolia"/>
-</a>
-</p>
